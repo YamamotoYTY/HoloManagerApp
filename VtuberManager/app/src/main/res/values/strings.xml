@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ホロマネージャー</string>
+    <string name="liveBroadcastOfLive">ライブ配信中</string>
+    <string name="complete_update_view">更新完了！</string>
+</resources>

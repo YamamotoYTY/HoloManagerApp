@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938245798270",
+    "project_id": "holomanagementapp",
+    "storage_bucket": "holomanagementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938245798270:android:845820a57f3083de3a1b2f",
+        "android_client_info": {
+          "package_name": "com.yatoya.vtubermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938245798270-o9ufaa42323acol8cdcg6tvopeqtl3vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDNdHfxMqr2-BimyCSv-26QPIzINsJhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938245798270-o9ufaa42323acol8cdcg6tvopeqtl3vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
